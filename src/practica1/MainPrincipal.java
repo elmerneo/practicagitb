@@ -19,7 +19,7 @@ public class MainPrincipal {
     Empleado persona1 = new Empleado();
     System.out.println("El nombre del empleado es:"+persona1.getNombre());
     
-    persona1.setNombre("Pedro");
+    persona1.setNombre("roger");
     
     System.out.println("El nombre del empleado es:"+persona1.getNombre());
     
